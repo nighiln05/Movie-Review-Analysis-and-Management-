@@ -1,0 +1,124 @@
+{
+    "movie_card_data": [
+        {
+            "title": "Captain America: Civil War",
+            "description": "Avengers clash over government oversight, splitting into rival factions.",
+            "rating": 9.5,
+            "image": "captain_america_civil_war.jpg"
+        },
+        {
+            "title": "Deadpool",
+            "description": "A wisecracking mercenary seeks revenge after a rogue experiment grants him healing powers.",
+            "rating": 9.5,
+            "image": "deadpool.jpg"
+        },
+        {
+            "title": "The Jungle Book",
+            "description": "A boy raised by wolves navigates the jungle while escaping the fierce tiger Shere Khan.",
+            "rating": 9.5,
+            "image": "jungle_book.jpg"
+        },
+        {
+            "title": "The Conjuring 2",
+            "description": "Paranormal investigators help a family plagued by a sinister spirit in England.",
+            "rating": 9.5,
+            "image": "the_conjuring_2.jpg"
+        },
+        {
+            "title": "Me Before You",
+            "description": "A small-town woman falls for a paralyzed man she’s hired to care for.",
+            "rating": 9.5,
+            "image": "me_before_you.jpg"
+        },
+        {
+            "title": "Star Trek Beyond",
+            "description": "The USS Enterprise crew faces a ruthless enemy stranded on a hostile planet.",
+            "rating": 9.5,
+            "image": "star_trek_beyond.jpg"
+        },
+        {
+            "title": "Eddie the Eagle",
+            "description": "An underdog ski jumper defies the odds to compete in the Olympics.",
+            "rating": 9.5,
+            "image": "eddie_the_eagle.jpg"
+        },
+        {
+            "title": "13 Hours",
+            "description": "A team of ex-soldiers defends a U.S. compound during a deadly attack in Libya.",
+            "rating": 9.5,
+            "image": "13_hours.jpg"
+        },
+        {
+            "title": "X-Men: Apocalypse",
+            "description": "Mutants unite to stop an ancient, god-like villain from destroying the world.",
+            "rating": 9.5,
+            "image": "x_men_apocalypse.jpg"
+        },
+        {
+            "title": "Warcraft",
+            "description": "Humans and orcs collide in an epic battle for survival and dominion.",
+            "rating": 9.5,
+            "image": "warcraft.jpg"
+        },
+        {
+            "title": "10 Cloverfield Lane",
+            "description": "A woman wakes up in a bunker and questions whether her captor is her savior.",
+            "rating": 9.5,
+            "image": "10_cloverfield_lane.png"
+        },
+        {
+            "title": "Kung Fu Panda 3",
+            "description": "Po reunites with his father and trains pandas to fight an evil spirit warrior.",
+            "rating": 9.5,
+            "image": "kung_fu_panda_3.jpg"
+        },
+        {
+            "title": "Jason Bourne",
+            "description": "The rogue spy resurfaces to uncover hidden truths about his past.",
+            "rating": 9.5,
+            "image": "jason_bourne.jpg"
+        },
+        {
+            "title": "The Neon Demon",
+            "description": "A young model’s beauty becomes a deadly obsession in the fashion world.",
+            "rating": 9.5,
+            "image": "the_neon_demon.jpg"
+        },
+        {
+            "title": "Batman v Superman: Dawn of Justice",
+            "description": "Two iconic heroes battle as a greater threat looms.",
+            "rating": 9.5,
+            "image": "batman_vs_superman_dawn_of_justice.jpg"
+        },
+        {
+            "title": "Suicide Squad",
+            "description": "Villains are forced to complete a dangerous mission for the government.",
+            "rating": 9.5,
+            "image": "suicide_squad.jpg"
+        },
+        {
+            "title": "Now You See Me 2",
+            "description": "Illusionists return for a heist involving high-tech deception and revenge.",
+            "rating": 9.5,
+            "image": "now_you_see_me_2.jpg"
+        },
+        {
+            "title": "Lights Out",
+            "description": "A family is terrorized by a supernatural entity that only appears in darkness.",
+            "rating": 9.5,
+            "image": "lights_out.jpg"
+        },
+        {
+            "title": "The BFG",
+            "description": "A young girl befriends a kind giant who protects her from his monstrous kin.",
+            "rating": 9.5,
+            "image": "the_bfg.jpeg"
+        },
+        {
+            "title": "The Secret Life of Pets",
+            "description": "Pets embark on a wild adventure when their owners leave home.",
+            "rating": 9.5,
+            "image": "the_secret_life_of_pets.jpeg"
+        }
+    ]
+}
